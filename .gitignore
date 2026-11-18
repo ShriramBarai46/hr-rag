@@ -1,0 +1,10 @@
+__pycache__/
+.venv/
+.pytest_cache/
+backend/.env
+backend/data/vector_store/
+node_modules/
+dist/
+frontend/.env
+frontend_old/
+backend/data/raw/*.pdf

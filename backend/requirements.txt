@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pydantic-settings
+pypdf
+faiss-cpu
+sentence-transformers
+langchain-text-splitters
+openai
